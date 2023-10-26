@@ -18,7 +18,7 @@ I'm junior QA Engineer
 
 ## Contact
 
-**Telegram**: [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-&logo=Telegram)](@sorettysnow)
+**Telegram**: [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-&logo=Telegram)](https://t.me/soprettysnow)
 
 @sorettysnow
 
