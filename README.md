@@ -9,12 +9,12 @@ I'm junior QA Engineer
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-&logo=Figma)
 
 ## Testing documentation
-* Checklists
-* Test-Plans
-* Test-Cases
-* Bug-Reports
-* SQL-Querries
-* Postman Collections
+* [Checklists](https://github.com/soprettysnow/Check-list)
+* [Test-Plans](https://github.com/soprettysnow/Test-Plans)
+* [Test-Cases](https://github.com/soprettysnow/Test-Cases)
+* [Bug-Reports](https://github.com/soprettysnow/Bug-Reports)
+* [SQL-Querries]()
+* [Postman Collections](https://github.com/soprettysnow/Postman-collections)
 
 ## Contact
 
