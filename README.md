@@ -1,7 +1,7 @@
-Header
+# About me
+___
+## Language and Tools
+___
+## Follow me
 
-About me
-
-Language and Tools
-
-Follow me
+[Telegram](@soprettysnow)
